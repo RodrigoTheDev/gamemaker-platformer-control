@@ -1,0 +1,2 @@
+Esse código foi criado para um jogo que está em fase inicial de desenvolvimento, mudanças e críticas são sempre bem vindas, sinta-se livre para usar e alterar
+este código.
