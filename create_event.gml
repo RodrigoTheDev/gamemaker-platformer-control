@@ -1,4 +1,4 @@
-//==== INSIRA ESSE CÓDIGO NO CREATE EVENT ===
+//==== INSIRA ESSE CÓDIGO NO CREATE EVENT ====
 hspd = 0
 vspd = 0
 spd = 0
