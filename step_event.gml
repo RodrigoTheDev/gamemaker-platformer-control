@@ -1,4 +1,4 @@
-// COLOQUE ESTE CÓDIGO NO STEP EVENT
+//==== INSIRA ESSE CÓDIGO NO STEP EVENT ===
 
 #region controles
 var key_left  =  keyboard_check(vk_left) or keyboard_check(ord("A"))
