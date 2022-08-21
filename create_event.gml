@@ -1,9 +1,9 @@
 //==== INSIRA ESSE CÓDIGO NO CREATE EVENT ====
-hspd = 0
-vspd = 0
-spd = 0
-accel = 0
-maxspd = 0
+hspd = 0 //variável horizontal
+vspd = 0 //variável vertical
+spd = 0 //variável de velocidade
+accel = 0 //aceleração
+maxspd = 0 //velocidade máxima
 //velocidade andando
 walk_accel = 0.05 //valor que incrementa a velocidade
 walk_maxspd = 5 //velocidade máxima que pode ser atingida
